@@ -1,4 +1,4 @@
-### Hi there 👋
+### 苟日新，日日新，又日新
 
 <!--
 **ibook86/ibook86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,4 +41,3 @@ Here are some ideas to get you started:
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white">
 </p>
-
